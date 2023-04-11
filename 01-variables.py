@@ -22,3 +22,7 @@ print ("yo soy", nombre2)
 #a
 nombre2= input ("¿cual es tu nombre?\n")
 print("Tu nombre es", nombre2)
+
+nombre= input ("Dime cual es tu nombre\n")
+edad= input ("Ahora dime tu edad\n")
+print("entonces tu nombre es", str(nombre), "y tienes", str(edad))
